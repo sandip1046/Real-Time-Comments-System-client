@@ -20,27 +20,14 @@ Material UI (MUI) for styling, and Socket.IO for real-time comment updates.
 
 To get a local copy up and running, follow these steps:
 
-### Clone the repository:
-
-```bash
-git clone https://github.com/your-username/real-time-comments.git
-cd real-time-comments
-```
-This project has two main folders:
-
-- **frontend**: Contains the Next.js application.
-- **backend**: Contains the Node.js API and real-time server logic.
-
-
 ## Installation
 
   ### Frontend Setup
   
-  1. Navigate to the frontend directory:
-  
-     ```bash
-     cd frontend
-     ```
+  1.  Clone the repository:
+          ```bash
+           git clone https://github.com/sandip1046/Real-Time-Comments-System-client.git
+           ```
   2. Install the required dependencies:
   
     ```bash
