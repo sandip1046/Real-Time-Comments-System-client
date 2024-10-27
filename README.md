@@ -16,7 +16,7 @@ Material UI (MUI) for styling, and Socket.IO for real-time comment updates.
 - **Backend**: Node.js, Express, TypeScript, Socket.IO
 - **Database**: MySQL
 
-## Getting Started
+## Getting Started with Frontend
 
 To get a local copy up and running, follow these steps:
 
@@ -24,20 +24,21 @@ To get a local copy up and running, follow these steps:
 
   ### Frontend Setup
   
-  1.  Clone the repository:
-          ```bash
-           git clone https://github.com/sandip1046/Real-Time-Comments-System-client.git
-           ```
+   1. Clone the repository:
+  
+   
+    git clone https://github.com/sandip1046/Real-Time-Comments-System-client.git
+    
   2. Install the required dependencies:
   
-    ```bash
+    
     npm install
-    ```
+   
   3. Start the development server:
   
-    ```bash
+    
     npm run dev
-    ```
+   
   By default, the frontend will run on http://localhost:3000.
   
   
